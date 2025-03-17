@@ -28,7 +28,7 @@ This project predicts student performance based on key academic metrics such as 
 ## 📥 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/Student-Performance-Prediction.git
+git clone https://github.com/GNHD/Student-Performance-Evaluation-Application.git
 cd Student-Performance-Prediction
 ```
 
