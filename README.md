@@ -21,7 +21,6 @@ This project predicts student performance based on key academic metrics such as 
 │   ├── app.py  # Streamlit UI for user interaction
 │── 📂 Data
 │   ├── student_performance_data.csv  # Sample dataset
-│── requirements.txt  # Required dependencies
 │── README.md  # Project documentation
 ```
 
